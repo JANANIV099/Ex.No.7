@@ -1,8 +1,8 @@
 # EXP NO .7-Develop a prompt-based application tailored to their personal needs, fostering creativity and practical problem-solving skills while leveraging the capabilities of large language models.
 
-##  Date: 29.8.2026
+##  Date: 17.9.2026
 
-## Register no: 212223060133
+## Register no: 212223060099
 
 
 ## AIM
